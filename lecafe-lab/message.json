@@ -1,0 +1,21 @@
+{
+    "Messages": [
+        {
+            "MessageId": "55bfe8cd-05c3-47ea-9049-b07326d9db4d",
+            "ReceiptHandle": "NDc3ZWRjODMtNjE3ZC00MDdiLWE5ZGUtNjNjZWViMzVmYmUxIGFybjphd3M6c3FzOnVzLWVhc3QtMTowMDAwMDAwMDAwMDA6bGVjYWZlLWtpdGNoZW4tb3JkZXJzIDU1YmZlOGNkLTA1YzMtNDdlYS05MDQ5LWIwNzMyNmQ5ZGI0ZCAxNzc3NTA4MjE1LjczOTk4MjQ=",
+            "MD5OfBody": "e0e752efd1959b6293042fb0dd20521f",
+            "Body": "{\"orderId\":\"ORD-001\",\"table\":4,\"items\":[{\"product\":\"Flat White\",\"quantity\":1,\"price\":3.50},{\"product\":\"Croissant\",\"quantity\":2,\"price\":2.00}],\"totalAmount\":7.50,\"timestamp\":\"2026-03-30T09:15:00Z\"}",
+            "MD5OfMessageAttributes": "d037ee46a9ac4743b7cd3e2a855b0615",
+            "MessageAttributes": {
+                "OrderType": {
+                    "StringValue": "dine-in",
+                    "DataType": "String"
+                },
+                "Priority": {
+                    "StringValue": "normal",
+                    "DataType": "String"
+                }
+            }
+        }
+    ]
+}

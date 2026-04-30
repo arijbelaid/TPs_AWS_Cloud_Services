@@ -1,0 +1,10 @@
+{
+    "Messages": [
+        {
+            "MessageId": "af4cff33-81bc-43ab-a8d4-47d44d6a4b9c",
+            "ReceiptHandle": "YjUyYTZhN2EtMGI3MS00YjJiLTlkZGYtMjE0NzlhMzNhMzMwIGFybjphd3M6c3FzOnVzLWVhc3QtMTowMDAwMDAwMDAwMDA6bGVjYWZlLW1hbmFnZXItYWxlcnRzIGFmNGNmZjMzLTgxYmMtNDNhYi1hOGQ0LTQ3ZDQ0ZDZhNGI5YyAxNzc3NTEwMzQ0LjQwNTQwMjI=",
+            "MD5OfBody": "d0dd9bd1fe53009fca3bf20d91fe0c4f",
+            "Body": "{\"Type\": \"Notification\", \"MessageId\": \"9ff89c8b-bc75-47b2-a191-6bcf2c5a2710\", \"TopicArn\": \"arn:aws:sns:us-east-1:000000000000:lecafe-orders-topic\", \"Message\": \"{\\\"orderId\\\":\\\"ORD-100\\\",\\\"table\\\":12,\\\"items\\\":[{\\\"product\\\":\\\"Cold Brew\\\",\\\"quantity\\\":6,\\\"price\\\":4.00},{\\\"product\\\":\\\"Pain au Chocolat\\\",\\\"quantity\\\":6,\\\"price\\\":2.50}],\\\"totalAmount\\\":39.00,\\\"timestamp\\\":\\\"2026-03-30T10:00:00Z\\\"}\", \"Timestamp\": \"2026-04-30T00:45:53.905Z\", \"SignatureVersion\": \"1\", \"Signature\": \"EXAMPLEpH+..\", \"SigningCertURL\": \"https://sns.us-east-1.amazonaws.com/SimpleNotificationService-0000000000000000000000.pem\", \"UnsubscribeURL\": \"http://localhost.localstack.cloud:4566/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-east-1:000000000000:lecafe-orders-topic:0d223bc3-b81c-4aa2-a817-b6462c21bb2b\", \"Subject\": \"New Le Cafe Order\", \"MessageAttributes\": {\"Priority\": {\"Type\": \"String\", \"Value\": \"high\"}, \"OrderType\": {\"Type\": \"String\", \"Value\": \"dine-in\"}}}"
+        }
+    ]
+}
