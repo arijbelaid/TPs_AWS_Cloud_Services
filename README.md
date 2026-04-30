@@ -131,7 +131,7 @@ Publishing a high-priority order to SNS delivers it only to the manager’s queu
 ### 🔹 Lab 00 – Prise en main (S3, IAM, SQS)
 
 **Installation LocalStack CLI**  
-![Structure](screenshot/lab0/verifier_installation_localStack_CLI.png)
+![Structure](lab0/verifier_installation_localStack_CLI.png)
 
 **Health check des services**  
 ![Structure](screenshot/lab0/localstack_health.png)
